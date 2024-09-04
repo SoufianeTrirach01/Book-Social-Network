@@ -1,0 +1,3 @@
+[submodule "books-network-ui"]
+	path = books-network-ui
+	url = https://github.com/your-username/books-network-ui.git
